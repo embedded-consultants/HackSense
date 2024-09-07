@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PCB - Sensor\HackSense - Main\HackSense - Main.PrjPcb
+[Project2]
+ProjectPath=Assembly\HackSense - Assembly\HackSense - Assembly.PrjMbd
